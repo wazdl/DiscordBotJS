@@ -40,8 +40,3 @@ Un bot Discord polyvalent et professionnel conçu pour répondre aux besoins des
 - **Pourquoi ?** : Si un jour je venais à ne pas être chez moi et pas disponible rapidement pour aller sur l'interface ptérodactyl, sur discord je pouvais gérer en 2minutes.
 - **Facile à utiliser** : Commandes simplifiées, performmants.
 
----
-
-## Licence
-
-Ce projet est sous licence [MIT](LICENSE).
