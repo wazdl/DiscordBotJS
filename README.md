@@ -36,7 +36,7 @@ Un bot Discord polyvalent et professionnel conçu pour répondre aux besoins des
 
 ## Pourquoi ce projet ?
 
-- **Idées** : Lors d'un hébergeur en line que j'avais fait, j'ai réfléchit à une solution pour permettre de gérer le panel ptérodactyl et en même temps le serveur discord depuis discord.
+- **Idées** : Lors d'un hébergeur en ligne que j'avais fait, j'ai réfléchit à une solution pour permettre de gérer le panel ptérodactyl et en même temps le serveur discord depuis discord.
 - **Pourquoi ?** : Si un jour je venais à ne pas être chez moi et pas disponible rapidement pour aller sur l'interface ptérodactyl, sur discord je pouvais gérer en 2minutes.
 - **Facile à utiliser** : Commandes simplifiées, performmants.
 
