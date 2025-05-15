@@ -8,18 +8,15 @@ Un bot Discord polyvalent et professionnel conçu pour répondre aux besoins des
 
 ### 🌐 Intégration avec Pterodactyl
 - **Gestion complète des serveurs** : Démarrez, arrêtez ou redémarrez vos serveurs directement depuis Discord.
-- **Surveillance en temps réel** : Suivez l'utilisation des ressources et l'état des serveurs sans quitter votre communauté.
-- **Automatisation simplifiée** : Connectez votre bot à votre panneau Pterodactyl pour une gestion sans effort.
+- **Surveillance en temps réel** : Suivez l'état des serveurs sans quitter votre communauté.
+- **Automatisation simplifiée** : Connectez votre bot à votre panneau Pterodactyl pour une gestion sans effort grâce aux APIs Ptérodactyl.
 
 ### 🔒 Modération Discord
 - **Outils de modération avancés** : Bannissements, avertissements, suppression de messages, et bien plus.
-- **Journalisation des actions** : Suivez toutes les actions modératrices pour garantir la transparence.
 - **Automatisation intelligente** : Maintenez un environnement sûr grâce à des fonctionnalités automatisées.
 
 ### ⚙️ Personnalisation
 - Commandes configurables pour s'adapter à vos besoins spécifiques.
-- Notifications automatiques pour tenir votre communauté informée.
-
 ---
 
 ## Aperçu Visuel
